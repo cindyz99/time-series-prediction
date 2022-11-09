@@ -1,1 +1,2 @@
 # time-series-prediction
+In the first step, we applied a deep learning model to predict the daily weather for the next two years based on GDUs data from the past ten years. According to the predicted daily GDUs, we generated a table of the number of days needed for seeds to mature. In the second step, we developed an optimization model to minimize the gap between the weekly inventory capacity and weekly harvest quantities.
